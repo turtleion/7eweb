@@ -1,0 +1,26 @@
+* {
+  margin:0;
+  padding:0;
+}
+body {
+    font-size: 15pt;
+}
+
+.texthead .welcomer {
+  text-align: center;
+  font-size: 0.75rem;
+  font-family: 'Jost';
+}
+
+.texthead .hdwelcomer {
+  font-family: 'Poppins';
+  text-align: center;
+}
+
+.texthead {
+  margin-top:5px;
+  line-height: 20px;
+  font-size: 1.10rem;
+  
+}
+/** */
